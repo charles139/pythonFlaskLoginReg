@@ -1,7 +1,8 @@
 # pythonFlaskLoginReg
 Flask app with Python and MySql - Login Registration with protected routes
 
-Dependencies
+Dependencies:
+
 PIP
 https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
 
