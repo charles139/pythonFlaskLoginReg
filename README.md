@@ -1,5 +1,5 @@
 # pythonFlaskLoginReg
-Flask app with Python and MySql - Login Registration with protected routes
+Flask app with Python and MySql - Login Registration with protected routes... and some CRUD
 
 Dependencies:
 
